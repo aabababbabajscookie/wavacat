@@ -31,6 +31,12 @@
                     "image": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/history/swat/1.png?ref_type=heads&inline=false"
                 }
             ]
-        }
+        },
+        {
+            "prewiew": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/history/2/pre.png?ref_type=heads&inline=false",
+            "pages": [
+                {
+                    "image": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/history/2/1.png?ref_type=heads&inline=false"
+                    
     ]
 }

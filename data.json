@@ -39,6 +39,18 @@
                 }
             ]
         },
-        тут вставляй
+        {
+            "preview": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/probnova.png?ref_type=heads&inline=false",
+            "pages": [
+                {
+                    "image": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/obnovapng1.png?ref_type=heads&inline=false"
+                },
+                {
+                    "image": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/obnovapng2.png?ref_type=heads&inline=false"
+                }
+            ]
+        }
+
+
     ]
 }

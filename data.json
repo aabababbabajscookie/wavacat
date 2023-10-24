@@ -13,8 +13,8 @@
         "seconds": 6
     },
     "updates": {
-        "important": true,
-        "allowDirect": true,
+        "important": false,
+        "allowDirect": false,
         "description": {
             "_": "<b>Bomber</b> 1.28 patch #2"
         },

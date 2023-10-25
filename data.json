@@ -60,6 +60,14 @@
                     "image": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/vzpng2.png?ref_type=heads&inline=false"
                 }
             ]
+        },
+        {
+            "preview": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/history/swat/preww.png?ref_type=heads&inline=false",
+            "pages": [
+                {
+                    "image": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/history/swat/arhip.png?ref_type=heads&inline=false"
+                }
+            ]
         }
     ]
 }

@@ -60,14 +60,6 @@
                     "image": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/dance-moves.gif?ref_type=heads&inline=false"
                 }
             ]
-        },
-        {
-            "preview": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/tt.png?ref_type=heads&inline=false",
-            "pages": [
-                {
-                    "image": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/ttpng.png?ref_type=heads&inline=false"
-                }
-            ]
         }
     ]
 }

@@ -16,12 +16,12 @@
         "important": false,
         "allowDirect": false,
         "description": {
-            "_": "<b>Bomber</b> 1.28 patch #2"
+            "_": "<b>BomberLV</b> 2.2"
         },
         "directUrl": "https://t.me/+DKfpirUc7gswOWYy",
         "onlyDirect": false,
         "telegramUrl": "https://t.me/+DKfpirUc7gswOWYy",
-        "versionCode": 90
+        "versionCode": 93
     },
     "stories": [
         {

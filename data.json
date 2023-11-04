@@ -20,7 +20,7 @@
         },
         "directUrl": "",
         "onlyDirect": false,
-        "telegramUrl": "https://t.me/fib8sj3ntisodh",
+        "telegramUrl": "https://t.me/+BOOsGHBb82ZhODky",
         "versionCode": 93
     },
     "stories": [
@@ -47,15 +47,6 @@
                 },
                 {
                     "image": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/dance-moves.gif?ref_type=heads&inline=false"
-                }
-            ]
-        },
-        {
-            "preview": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/vipr.png?ref_type=heads&inline=false",
-            "pages": [
-                {
-                    "image": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/vi1.png?ref_type=heads&inline=false",
-                    "captionTop": "<h3>ОПРОС</h3>ПРОГОЛОСОВАТЬ ТУТ: <a href=\"https://t.me/fib8sj3ntisodh\">Опрос</a> "
                 }
             ]
         }

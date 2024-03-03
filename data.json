@@ -25,28 +25,6 @@
     },
     "stories": [
         {
-            "preview": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/history/zash/preview.png?ref_type=heads&inline=false",
-            "pages": [
-                {
-                    "image": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/history/zash/1.png?ref_type=heads&inline=false"
-                },
-                {
-                    "image": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/history/zash/2.png?ref_type=heads&inline=false"
-                }
-            ]
-        },
-        {
-            "preview": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/prvirus.png?ref_type=heads&inline=false",
-            "pages": [
-                {
-                    "image": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/virus1.png?ref_type=heads&inline=false"
-                },
-                {
-                    "image": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/dance-moves.gif?ref_type=heads&inline=false"
-                }
-            ]
-        },
-        {
             "preview": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/pbvcpr.png?ref_type=heads&inline=false",
             "pages": [
                 {

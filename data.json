@@ -16,12 +16,12 @@
         "important": false,
         "allowDirect": false,
         "description": {
-            "_": "<b>BomberLV</b> 2.6"
+            "_": "<b>BomberLV</b> 2.7"
         },
         "directUrl": "",
         "onlyDirect": false,
         "telegramUrl": "https://t.me/+DKfpirUc7gswOWYy",
-        "versionCode": 105
+        "versionCode": 107
     },
     "stories": [
         {

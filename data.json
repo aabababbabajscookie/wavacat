@@ -17,15 +17,15 @@
         "important": true,
         "allowDirect":false,
         "description":{
-            "_":"BomberLV 2.9"
+            "_":"BomberLV 2.9.1"
         },
         "directUrl":"https://t.me/+tbLbRF7KiGM4NjVi",
         "onlyDirect":false,
         "telegramUrl":"https://t.me/+tbLbRF7KiGM4NjVi",
-        "versionCode":112
+        "versionCode":113
     },
     "config":{
-        "donateAvailable":false,
+        "donateAvailable":true,
         "sourceCodeAvailable":true
     },
     "stories":[

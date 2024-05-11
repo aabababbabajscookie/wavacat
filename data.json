@@ -25,7 +25,7 @@
         "versionCode":112
     },
     "config":{
-        "donateAvailable":true,
+        "donateAvailable":false,
         "sourceCodeAvailable":true
     },
     "stories":[

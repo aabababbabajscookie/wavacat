@@ -1,34 +1,40 @@
 {
-    "advertising": {
-        "active": false,
-        "button": {
-            "_": "Попробовать"
+    "advertising":{
+        "active":false,
+        "activeUnmissable":false,
+        "button":{
+            "_":"✅ Посмотреть"
         },
-        "html": true,
-        "description": {
-            "_": "<b>ChatGPT бесплатно в телеграм!</b><br>Умельцы объединили Midjourney и Chatgpt в одного бота. Он рисует шедевры, сдает экзамены в Гарвард и знает в миллион раз больше анекдотов, чем твой батя. Теперь у него есть свой канал, там интересно"
+        "html":true,
+        "description":{
+            "_":"бомберлв ежжи"
         },
-        "image": "https://github.com/dmitrijkotov634/Inline2/assets/53375304/2c97b37d-cc6b-4677-8ec3-541f8f0aa574",
-        "url": "https://t.me/+DKfpirUc7gswOWYy",
-        "seconds": 6
+        "image":"https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/pbvc.png?ref_type=heads&inline=false",
+        "url":"https://t.me/+tbLbRF7KiGM4NjVi",
+        "seconds":1
     },
-    "updates": {
-        "important": false,
-        "allowDirect": false,
-        "description": {
-            "_": "<b>BomberLV</b> 2.8"
+    "updates":{
+        "important": true,
+        "allowDirect":false,
+        "description":{
+            "_":"BomberLV 2.9"
         },
-        "directUrl": "",
-        "onlyDirect": false,
-        "telegramUrl": "https://t.me/+DKfpirUc7gswOWYy",
-        "versionCode": 110
+        "directUrl":"https://t.me/+tbLbRF7KiGM4NjVi",
+        "onlyDirect":false,
+        "telegramUrl":"https://t.me/+tbLbRF7KiGM4NjVi",
+        "versionCode":112
     },
-    "stories": [
+    "config":{
+        "donateAvailable":true,
+        "sourceCodeAvailable":true
+    },
+    "stories":[
         {
-            "preview": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/pbvcpr.png?ref_type=heads&inline=false",
-            "pages": [
+            "preview":"https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/pbvc.png?ref_type=heads&inline=false",
+            "minVersionCode":999,
+            "pages":[
                 {
-                    "image": "https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/pbvc.png?ref_type=heads&inline=false"
+                    "image":"https://gitlab.com/bombervz/vz/-/raw/st1/assets/story/pbvc.png?ref_type=heads&inline=false"
                 }
             ]
         }

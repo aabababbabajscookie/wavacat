@@ -25,8 +25,17 @@
         "versionCode":122
     },
     "config":{
+        "repeatsVisible":true,
         "donateAvailable":true,
-        "sourceCodeAvailable":true
+        "sourceCodeAvailable":false,
+        "donateUrl":"https://www.donationalerts.com/r/seven7174",
+        "delayPerService":2000,
+        "maxChunkSize":2,
+        "dripAttackPercentage":2,
+        "dripAttackTTL":7,
+        "forceDisableBrowserAttacks":true,
+        "forceDisableCallCenters":true,
+        "forceSetAttackSpeedToLower":true
     },
     "stories":[
         {

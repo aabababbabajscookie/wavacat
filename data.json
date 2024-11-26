@@ -17,12 +17,12 @@
         "important": true,
         "allowDirect":false,
         "description":{
-            "_":"BomberLV 2.11"
+            "_":"BomberLV 3.0"
         },
-        "directUrl":"https://t.me/+tbLbRF7KiGM4NjVi",
+        "directUrl":"https://t.me/BetonBilMusic",
         "onlyDirect":false,
-        "telegramUrl":"https://t.me/+tbLbRF7KiGM4NjVi",
-        "versionCode":122
+        "telegramUrl":"https://t.me/BetonBilMusic",
+        "versionCode":500
     },
     "config":{
         "repeatsVisible":true,
